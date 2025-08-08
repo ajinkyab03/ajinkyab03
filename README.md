@@ -1,5 +1,6 @@
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajinkyab_03?theme=dark&font=Baloo%20Chettan%202&ext=heatmap)
-![snake gif](https://github.com/ajinkyab03/ajinkyab03/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ajinkyab03&color=blue)
 
 
 # 👋 Hi, I'm Ajinkya Madane
