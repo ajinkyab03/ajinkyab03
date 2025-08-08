@@ -1,3 +1,5 @@
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajinkyab_03?theme=dark&font=Baloo%20Chettan%202&ext=heatmap)
+
 # 👋 Hi, I'm Ajinkya Madane
 
 🎓 **B.Tech in Computer Science and Engineering**  
