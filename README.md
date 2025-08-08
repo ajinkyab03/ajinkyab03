@@ -1,5 +1,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ajinkyab_03?theme=dark&font=Baloo%20Chettan%202&ext=heatmap)
-![trophy](https://github-profile-trophy.vercel.app/?username=ajinkyab03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 # 👋 Hi, I'm Ajinkya Madane
 
